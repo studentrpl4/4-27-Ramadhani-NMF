@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title','Novita | Dashboard')
+@section('title','Ramadhani | Dashboard')
 @section('content')
 <div class="main-content">
                 <div class="section__content section__content--p30">
