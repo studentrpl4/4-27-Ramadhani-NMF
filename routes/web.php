@@ -22,9 +22,9 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about', [
         "title"=> "About",
-        "nama" => "Novita Syahwa Tri Hapsari",
-        "email"=> "novitasyahwahapsari@gmail.com",
-        "gambar" => "nopi.jpeg"
+        "nama" => "takaru ken",
+        "email"=> "OKarukun@gmail.com",
+        "gambar" => "takaru ken.jpg"
     ]);
 });
 Route::get('/gallery', function () {
